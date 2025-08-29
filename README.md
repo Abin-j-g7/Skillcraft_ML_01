@@ -1,10 +1,10 @@
-🏠 House Price Prediction
-📌 Project Overview
+#🏠 House Price Prediction
+#📌 Project Overview
 
 This project is part of my Machine Learning Internship at SkillCraft Technologies.
 The aim is to build a machine learning model that can accurately predict house prices based on various features such as location, area, condition, and more.
 
-📂 Dataset
+#📂 Dataset
 
 The dataset used is from Kaggle’s House Prices – Advanced Regression Techniques competition.
 
@@ -14,7 +14,7 @@ test.csv → Test dataset without sale prices.
 
 sample_submission.csv → Example output format.
 
-🔑 Project Workflow
+#🔑 Project Workflow
 
 Data Loading & Exploration
 
@@ -44,7 +44,7 @@ Generated predictions on test data.
 
 Exported results for Kaggle submission.
 
-📊 Tools & Libraries Used
+#📊 Tools & Libraries Used
 
 Python
 
@@ -54,7 +54,7 @@ Scikit-learn
 
 Matplotlib, Seaborn
 
-🚀 Results
+#🚀 Results
 
 Successfully implemented a regression model to predict house prices.
 
@@ -62,7 +62,7 @@ Achieved good performance on validation data using RMSE.
 
 Model ready for further improvement with advanced algorithms.
 
-📌 Future Enhancements
+#📌 Future Enhancements
 
 Implement advanced regression models (Random Forest, XGBoost, Gradient Boosting).
 
